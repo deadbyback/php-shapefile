@@ -10,7 +10,7 @@
  * @link    https://gasparesganga.com/labs/php-shapefile/
  */
 
-namespace Shapefile;
+namespace CyrillicShapefile;
 
 /**
  * Exception thrown by this library.

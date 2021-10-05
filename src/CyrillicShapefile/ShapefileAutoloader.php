@@ -10,7 +10,7 @@
  * @link    https://gasparesganga.com/labs/php-shapefile/
  */
 
-namespace Shapefile;
+namespace CyrillicShapefile;
 
 /**
  * Static autoloader class. It only exposes public static method register().

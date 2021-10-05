@@ -10,10 +10,10 @@
  * @link    https://gasparesganga.com/labs/php-shapefile/
  */
 
-namespace Shapefile\Geometry;
+namespace CyrillicShapefile\Geometry;
 
-use Shapefile\Shapefile;
-use Shapefile\ShapefileException;
+use CyrillicShapefile\Shapefile;
+use CyrillicShapefile\ShapefileException;
 
 /**
  * MultiPoint Geometry.

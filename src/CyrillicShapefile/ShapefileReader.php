@@ -10,14 +10,14 @@
  * @link    https://gasparesganga.com/labs/php-shapefile/
  */
 
-namespace Shapefile;
+namespace CyrillicShapefile;
 
-use Shapefile\Geometry\Point;
-use Shapefile\Geometry\MultiPoint;
-use Shapefile\Geometry\Linestring;
-use Shapefile\Geometry\MultiLinestring;
-use Shapefile\Geometry\Polygon;
-use Shapefile\Geometry\MultiPolygon;
+use CyrillicShapefile\Geometry\Point;
+use CyrillicShapefile\Geometry\MultiPoint;
+use CyrillicShapefile\Geometry\Linestring;
+use CyrillicShapefile\Geometry\MultiLinestring;
+use CyrillicShapefile\Geometry\Polygon;
+use CyrillicShapefile\Geometry\MultiPolygon;
 
 /**
  * ShapefileReader class.
