@@ -1240,7 +1240,7 @@ abstract class Shapefile
         }
         
         // Sanitize name and normalize case
-        $name = $this->normalizeDBFFieldNameCase($this->sanitizeDBFFieldName($name));
+        //$name = $this->normalizeDBFFieldNameCase($this->sanitizeDBFFieldName($name));
         
         // Check type
         if (
