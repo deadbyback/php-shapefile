@@ -5,14 +5,13 @@
     "keywords": ["shapefile", "shape", "esri", "shp", "dbf", "wkt", "geojson"],
     "homepage": "https://gasparesganga.com/labs/php-shapefile/",
     "license": "MIT",
-    "authors": [
-        {
+    "authors": [{
             "name": "Gaspare Sganga",
             "email": "contact@gasparesganga.com",
             "homepage": "https://gasparesganga.com/labs/php-shapefile/",
             "role": "Developer"
         },
-                {
+        {
             "name": "Alexander Vanin",
             "email": "av.chezz@gmail.com",
             "homepage": "https://github.com/deadbyback/",
@@ -24,7 +23,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Shapefile\\": "src/Shapefile/"
+            "Shapefile\\": "src/CyrillicShapefile/"
         }
     }
 }
