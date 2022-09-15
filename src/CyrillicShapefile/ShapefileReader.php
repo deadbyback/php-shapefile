@@ -336,6 +336,8 @@ class ShapefileReader extends Shapefile implements \Iterator
                     throw new ShapefileException(Shapefile::ERR_DBF_CHARSET_CONVERSION);
                 }
             }
+
+            $ret = $newRet;
         }
 
         return trim($ret);
